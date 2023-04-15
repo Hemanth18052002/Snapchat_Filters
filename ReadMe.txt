@@ -13,3 +13,6 @@ pip install mediapipe
 pip install picklable-itertools
 pip install numpy
 pip install Everything-Tkinter
+
+
+Here totally Tkinter is used as GUI
