@@ -15,4 +15,4 @@ pip install numpy
 pip install Everything-Tkinter
 
 
-Here totally Tkinter is used as GUI
+**Tkinter is used for GUI**
